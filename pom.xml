@@ -34,10 +34,10 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>4.6.1</muleVersion>
+						<muleVersion>${app.runtime}</muleVersion>
 						<username>Vishnu000824</username>
 						<password>${account.password}</password>
-						<applicationName>CICDDemo</applicationName>
+						<applicationName>CICDDemo-jenkins</applicationName>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
 						<environment>Sandbox</environment>
