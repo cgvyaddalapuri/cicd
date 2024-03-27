@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
-	<artifactId>cicd_demo</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<artifactId>cicdDemo</artifactId>
+	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
-	<name>cicd_demo</name>
+	<name>cicdDemo</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -36,7 +36,7 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.6.1</muleVersion>
 						<server>MyCloudhubDeployment</server>
-						<applicationName>cicd_demo</applicationName>
+						<applicationName>cicdDemo</applicationName>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
 						<objectStoreV2>true</objectStoreV2>
