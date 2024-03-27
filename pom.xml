@@ -40,7 +40,7 @@
 						<applicationName>CICDDemo</applicationName>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
-						<environment>dev</environment>
+						<environment>Sandbox</environment>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
