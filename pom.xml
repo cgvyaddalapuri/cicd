@@ -6,7 +6,7 @@
 
 	<groupId>com.mycompany</groupId>
 	<artifactId>cicd-demo</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>mule-application</packaging>
 
 	<name>cicd-demo</name>
@@ -16,6 +16,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<app.runtime>4.6.1</app.runtime>
+		<account.name>Vishnu000824</account.name>
 		<mule.maven.plugin.version>4.1.0</mule.maven.plugin.version>
 	</properties>
 
