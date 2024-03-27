@@ -35,7 +35,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.6.1</muleVersion>
-						<server>MyCloudhubDeployment</server>
+						<username>Vishnu000824</username>
+						<password>Vishnu@12345</password>
 						<applicationName>cicdDemo</applicationName>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
